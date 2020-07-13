@@ -1,0 +1,6 @@
+.idea
+.vscode
+node_modules/
+Bluetooth/platforms/
+Bluetooth/hooks/
+build.xcconfig
