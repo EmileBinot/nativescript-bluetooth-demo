@@ -2,8 +2,6 @@
 
 Demo app for the [NativeScript Bluetooth plugin](https://github.com/EddyVerbruggen/nativescript-bluetooth)
 
-<img src="bluetooth-demo.gif"/>
-
 ## Installation
 
 This app is built with the [NativeScript CLI](https://github.com/NativeScript/nativescript-cli).
